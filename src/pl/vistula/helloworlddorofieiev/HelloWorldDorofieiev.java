@@ -6,6 +6,8 @@ public class HelloWorldDorofieiev {
         System.out.println("HelloVistula");
         System.out.println("HelloVistula");
         System.out.println("HelloVistula");  System.out.println("HelloVistula");
+        System.out.println("HelloVistula");
+        System.out.println("HelloVistula");  System.out.println("HelloVistula");  System.out.println("HelloVistula");
 
 
 
